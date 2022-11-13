@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Controllable Characters Patch</name>
+  <id>Donk.ControllableCharacters</id>
+  <author>Donk</author>
+  <version>1.0</version>
+  <link />
+  <description>Repackage of the controllable characters patch for P3FES by TGE, Warrior250 so it can be easily included with Aemulus
+It allows you to control all party members during battle.
+Some funky stuff happens if you attempt to switch personas on people other than the MC. don't do it 🤡</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>
